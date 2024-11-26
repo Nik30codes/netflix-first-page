@@ -164,10 +164,9 @@ section.first> div:nth-child(2){
   
 
   .faqbox.active svg {
-    transform: rotate(45deg); /* Rotate the icon when clicked */
+    transform: rotate(45deg); 
   }
-  
-  /* Style for the FAQ text */
+
   .faqbox span {
     font-weight: bold;
     color: #fff;
